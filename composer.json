@@ -1,0 +1,15 @@
+{
+    "name": "TheMusician/sistem-komisi",
+    "authors": [
+        {
+            "name": "agusyusida",
+            "email": "agusyusida@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+		"classmap": [
+			"app/class"
+			]
+		}
+}
